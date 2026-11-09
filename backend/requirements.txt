@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
+python-docx
+scikit-learn
+nltk
+SQLAlchemy
+psycopg[binary]
+python-jose[cryptography]
+bcrypt
+python-dotenv
+pytest
+httpx
