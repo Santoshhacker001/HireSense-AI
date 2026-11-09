@@ -1,0 +1,116 @@
+
+{
+  "dataset_name": "HireSense AI Synthetic Candidate Dataset",
+  "version": "1.0",
+  "notice": "All candidate profiles are fictional and created exclusively for software demonstration and testing.",
+  "job_requirements": [
+    {
+      "job_id": "JOB001",
+      "title": "Python Developer",
+      "description": "Develop backend applications and REST APIs.",
+      "required_skills": ["Python", "FastAPI", "SQL", "Git"],
+      "preferred_skills": ["Docker", "AWS"],
+      "minimum_experience_years": 1
+    },
+    {
+      "job_id": "JOB002",
+      "title": "Data Analyst",
+      "description": "Analyze business data and build dashboards.",
+      "required_skills": ["Python", "SQL", "Excel", "Power BI"],
+      "preferred_skills": ["Tableau", "Statistics"],
+      "minimum_experience_years": 0
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "CAND001",
+      "name": "Alex Morgan",
+      "experience_years": 2,
+      "education": "BSc Computer Science",
+      "skills": ["Python", "FastAPI", "SQL", "Git", "Docker"],
+      "summary": "Backend developer with experience building REST APIs and database-driven applications.",
+      "target_job_id": "JOB001"
+    },
+    {
+      "candidate_id": "CAND002",
+      "name": "Jamie Wilson",
+      "experience_years": 1,
+      "education": "BTech Information Technology",
+      "skills": ["Python", "SQL", "Git", "Flask"],
+      "summary": "Junior Python developer with experience in web development and database integration.",
+      "target_job_id": "JOB001"
+    },
+    {
+      "candidate_id": "CAND003",
+      "name": "Taylor Brown",
+      "experience_years": 4,
+      "education": "MSc Software Engineering",
+      "skills": ["Python", "FastAPI", "SQL", "Git", "Docker", "AWS"],
+      "summary": "Experienced backend engineer focused on scalable APIs and cloud deployment.",
+      "target_job_id": "JOB001"
+    },
+    {
+      "candidate_id": "CAND004",
+      "name": "Jordan Lee",
+      "experience_years": 0,
+      "education": "BSc Mathematics",
+      "skills": ["Python", "Excel", "Statistics", "SQL"],
+      "summary": "Entry-level candidate with analytical skills and academic programming projects.",
+      "target_job_id": "JOB002"
+    },
+    {
+      "candidate_id": "CAND005",
+      "name": "Casey Davis",
+      "experience_years": 2,
+      "education": "MBA Business Analytics",
+      "skills": ["Excel", "SQL", "Power BI", "Tableau", "Statistics"],
+      "summary": "Business analyst experienced in reporting, dashboard creation and data interpretation.",
+      "target_job_id": "JOB002"
+    },
+    {
+      "candidate_id": "CAND006",
+      "name": "Riley Clark",
+      "experience_years": 3,
+      "education": "BTech Computer Science",
+      "skills": ["Python", "SQL", "Excel", "Power BI", "Tableau", "Statistics"],
+      "summary": "Data analyst experienced in data cleaning, visualization and business reporting.",
+      "target_job_id": "JOB002"
+    },
+    {
+      "candidate_id": "CAND007",
+      "name": "Morgan Taylor",
+      "experience_years": 1,
+      "education": "BCA",
+      "skills": ["Java", "Spring Boot", "MySQL", "Git"],
+      "summary": "Junior software developer with experience in Java backend development.",
+      "target_job_id": "JOB001"
+    },
+    {
+      "candidate_id": "CAND008",
+      "name": "Avery White",
+      "experience_years": 5,
+      "education": "MSc Data Science",
+      "skills": ["Python", "SQL", "Power BI", "Machine Learning", "Statistics"],
+      "summary": "Data professional with experience in predictive analysis and business intelligence.",
+      "target_job_id": "JOB002"
+    },
+    {
+      "candidate_id": "CAND009",
+      "name": "Cameron Hall",
+      "experience_years": 2,
+      "education": "BTech Software Engineering",
+      "skills": ["Python", "FastAPI", "PostgreSQL", "Git", "AWS"],
+      "summary": "Backend developer with API development and PostgreSQL experience.",
+      "target_job_id": "JOB001"
+    },
+    {
+      "candidate_id": "CAND010",
+      "name": "Drew Martin",
+      "experience_years": 1,
+      "education": "BSc Statistics",
+      "skills": ["Excel", "SQL", "Python", "Tableau"],
+      "summary": "Junior data analyst with experience in exploratory analysis and reporting.",
+      "target_job_id": "JOB002"
+    }
+  ]
+}
